@@ -1,0 +1,65 @@
+
+
+  div.container2 {
+    padding-right: 1px;
+    padding-left: 200px;
+    padding-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .ReactTable .rt-th, .ReactTable .rt-td {
+    background-color: white;
+    color: whitesmoke;
+  }
+  
+  .btn2{
+      display: block;
+      float: right;
+      margin-bottom: 5px;
+     
+  }
+  .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-size: 15px;
+}
+  .ReactTable -history{
+      width: 900px;
+  }
+  .App {
+    text-align: center;
+    background: black;
+  }
+div.colhistory{
+    background: white;
+}
+.ReactTable {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0,0,0,0.1);
+    width: 900px;
+}
+.back {
+  background-color: rgb(30, 103, 172);
+  color: rgb(241, 239, 239);
+  font-size: 15px;
+}
+.back {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+
+}
+
+.back:hover {
+  background-color: rgb(165, 176, 236);
+  color: rgb(238, 231, 231);
+}
+.btn-secondary {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  font-size: small;
+}
